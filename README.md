@@ -1,5 +1,5 @@
 # 🌍 Ubuntu Image Fetcher
-# This program connects to the internet (community),
-# respectfully fetches an image from a URL (respect),
-# and saves it into a folder called "Fetched_Images" (sharing).
-# It is practical because it organizes images for later use (practicality).
+Ubuntu Image Fetcher
+This program downloads an image from a user-provided URL
+and saves it inside a folder called 'Fetched_Images'.
+It follows Ubuntu principles: community, respect, sharing, practicality.
